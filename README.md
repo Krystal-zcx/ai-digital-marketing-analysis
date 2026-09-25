@@ -42,7 +42,13 @@
 → AI诊断  
 → 优化建议  
 → A/B Test设计
+## 可视化结果
 
+### 各平台 ROAS 对比
+
+![ROAS by Platform](images/platform_roas.png)
+
+从模拟数据结果看，YouTube 的 ROAS 最高，为 6.06；小红书次之，为 5.74；TikTok 为 4.96；Instagram 最低，为 3.25。说明不同平台在投入产出效率上存在明显差异，预算分配不能仅依据点击量，还应结合转化效率与收入回报综合判断。
 ## 核心业务发现
 
 ### 1. YouTube整体投入产出效率最高
